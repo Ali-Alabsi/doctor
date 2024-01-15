@@ -53,6 +53,10 @@ dependencies:
   easy_localization: ^3.0.3
   # Splash Screen
   flutter_native_splash:
+  # SVG
+  flutter_svg:
+  # Responsve 
+  flutter_screenutil: ^5.9.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
